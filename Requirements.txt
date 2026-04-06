@@ -3,6 +3,5 @@ Streamlit
 requests
 
 #Text-to-Speech Requirements
-streamlit
 gtts
 deep_translator
