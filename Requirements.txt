@@ -1,7 +1,7 @@
 #Text-Summarizer Requirements
-Streamlit
+streamlit
 requests
 
 #Text-to-Speech Requirements
-gtts
+gTTS
 deep_translator
