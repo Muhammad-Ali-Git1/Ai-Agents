@@ -4,5 +4,5 @@ requests
 
 #Text-to-Speech Requirements
 streamlit
-gTTS
+gtts
 deep_translator
